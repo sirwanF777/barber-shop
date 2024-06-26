@@ -1,0 +1,10 @@
+{
+    "watch": [
+        "src"
+    ],
+    "ext": "js",
+    "ignore": [
+        "*.spac.js"
+    ],
+    "exec": "node ./src/index.js"
+}
